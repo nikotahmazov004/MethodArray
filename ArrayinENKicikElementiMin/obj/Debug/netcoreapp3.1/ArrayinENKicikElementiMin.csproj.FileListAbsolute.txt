@@ -1,0 +1,14 @@
+C:\Users\tahma\Desktop\Min\ArrayinENKicikElementiMin\ArrayinENKicikElementiMin\bin\Debug\netcoreapp3.1\ArrayinENKicikElementiMin.exe
+C:\Users\tahma\Desktop\Min\ArrayinENKicikElementiMin\ArrayinENKicikElementiMin\bin\Debug\netcoreapp3.1\ArrayinENKicikElementiMin.deps.json
+C:\Users\tahma\Desktop\Min\ArrayinENKicikElementiMin\ArrayinENKicikElementiMin\bin\Debug\netcoreapp3.1\ArrayinENKicikElementiMin.runtimeconfig.json
+C:\Users\tahma\Desktop\Min\ArrayinENKicikElementiMin\ArrayinENKicikElementiMin\bin\Debug\netcoreapp3.1\ArrayinENKicikElementiMin.runtimeconfig.dev.json
+C:\Users\tahma\Desktop\Min\ArrayinENKicikElementiMin\ArrayinENKicikElementiMin\bin\Debug\netcoreapp3.1\ArrayinENKicikElementiMin.dll
+C:\Users\tahma\Desktop\Min\ArrayinENKicikElementiMin\ArrayinENKicikElementiMin\bin\Debug\netcoreapp3.1\ArrayinENKicikElementiMin.pdb
+C:\Users\tahma\Desktop\Min\ArrayinENKicikElementiMin\ArrayinENKicikElementiMin\obj\Debug\netcoreapp3.1\ArrayinENKicikElementiMin.csproj.AssemblyReference.cache
+C:\Users\tahma\Desktop\Min\ArrayinENKicikElementiMin\ArrayinENKicikElementiMin\obj\Debug\netcoreapp3.1\ArrayinENKicikElementiMin.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\tahma\Desktop\Min\ArrayinENKicikElementiMin\ArrayinENKicikElementiMin\obj\Debug\netcoreapp3.1\ArrayinENKicikElementiMin.AssemblyInfoInputs.cache
+C:\Users\tahma\Desktop\Min\ArrayinENKicikElementiMin\ArrayinENKicikElementiMin\obj\Debug\netcoreapp3.1\ArrayinENKicikElementiMin.AssemblyInfo.cs
+C:\Users\tahma\Desktop\Min\ArrayinENKicikElementiMin\ArrayinENKicikElementiMin\obj\Debug\netcoreapp3.1\ArrayinENKicikElementiMin.csproj.CoreCompileInputs.cache
+C:\Users\tahma\Desktop\Min\ArrayinENKicikElementiMin\ArrayinENKicikElementiMin\obj\Debug\netcoreapp3.1\ArrayinENKicikElementiMin.dll
+C:\Users\tahma\Desktop\Min\ArrayinENKicikElementiMin\ArrayinENKicikElementiMin\obj\Debug\netcoreapp3.1\ArrayinENKicikElementiMin.pdb
+C:\Users\tahma\Desktop\Min\ArrayinENKicikElementiMin\ArrayinENKicikElementiMin\obj\Debug\netcoreapp3.1\ArrayinENKicikElementiMin.genruntimeconfig.cache
